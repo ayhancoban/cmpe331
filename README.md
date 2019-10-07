@@ -1,4 +1,3 @@
 # cmpe331
 Example for the course
-
-Author ayhancoban
+Author Ayhan Çoban
